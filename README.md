@@ -9,13 +9,14 @@ A collection of classic and modern computer vision architectures implemented usi
 
 - LeNet
 - AlexNet
+- Mini VGG
 - VGG16
 - VGG19
 - ResNet-18
 - GoogLeNet
 - Inception v2
 - Inception v3
-- U-Net (coming soon)
+- U-Net 
 
 ## Project Goals
 
